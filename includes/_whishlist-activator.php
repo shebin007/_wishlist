@@ -3,11 +3,11 @@
 /**
  * Fired during plugin activation
  *
- * @link       http://example.com
+ * @link       http://shebinkp.co.in
  * @since      1.0.0
  *
- * @package    Plugin_Name
- * @subpackage Plugin_Name/includes
+ * @package    _Wishlist
+ * @subpackage _Wishlist/includes
  */
 
 /**
@@ -16,11 +16,11 @@
  * This class defines all code necessary to run during the plugin's activation.
  *
  * @since      1.0.0
- * @package    Plugin_Name
- * @subpackage Plugin_Name/includes
+ * @package    _Wishlist
+ * @subpackage _Wishlist/includes
  * @author     Your Name <email@example.com>
  */
-class Plugin_Name_Activator {
+class _Wishlist_Activator {
 
 	/**
 	 * Short Description. (use period)
@@ -30,6 +30,7 @@ class Plugin_Name_Activator {
 	 * @since    1.0.0
 	 */
 	public static function activate() {
+
 
 	}
 
